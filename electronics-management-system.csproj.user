@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\AccessLogPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Admin\AuditLogPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\HumanResourcePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\InventoryPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Inventory\ProductionLinesPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Inventory\WorkstationsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ManufacturingEngineerPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\QualityAssuranceEngineer\DeviceDefects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\QualityAssuranceEngineer\DeviceTesting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\QualityAssurancePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Supply Chain\ComponentPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Supply Chain\DevicesPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Supply Chain\MaterialPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SupplyChainPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\TwelveColumnLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
